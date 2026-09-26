@@ -1,0 +1,139 @@
+- year: 2026
+  title: "CatRange enables robust prediction of enzyme variant kinetic regimes"
+  authors: "Karuna Anna Sajeevan, Abraham Osinuga, B Arunraj, Rajib Saha, Ratul Chowdhury, et al."
+  journal: "PNAS Nexus"
+  doi: "10.1093/pnasnexus/pgag309"
+  url: "https://doi.org/10.1093/pnasnexus/pgag309"
+  categories:
+    - AI / Machine Learning
+    - Enzyme Engineering
+    - Method Development
+
+- year: 2026
+  title: "Cyclome: Large-scale replica-exchange dynamics of 930 cyclic peptide reveal thermal stability and critical metal-binding behavior"
+  authors: "Karuna Anna Sajeevan, Hannah Gates, SR Vaishnavey, Curwen Pei Hong Tan, Riza Danurdoro, Julia Young, Ratul Chowdhury"
+  journal: "Preprint"
+  doi: "10.64898/2026.04.08.717280"
+  url: "https://doi.org/10.64898/2026.04.08.717280"
+  categories:
+    - Molecular Simulation
+    - Peptides
+
+- year: 2026
+  title: "Selective Separation of the Rare Earth Elements Dysprosium and Neodymium via Tailoring Nanocellulose Chemical Structure"
+  authors: "Roya Koshani, Shang-Lin Yeh, Karuna Anna Sajeevan, et al."
+  journal: "Advanced Functional Materials"
+  categories:
+    - Critical Minerals
+    - Sustainability
+
+- year: 2025
+  title: "Computationally derived structural insights into Rare Earth selectivity in lanmodulin and its variants"
+  authors: "Karuna Anna Sajeevan, Bibek Acharya, Sakib Ferdous, Dan M. Park, Joseph A. Cotruvo Jr., Ratul Chowdhury"
+  journal: "Computational and Structural Biotechnology Journal"
+  doi: "10.1016/j.csbj.2025.02.005"
+  url: "https://doi.org/10.1016/j.csbj.2025.02.005"
+  categories:
+    - Molecular Simulation
+    - Critical Minerals
+    - Protein Engineering
+
+- year: 2024
+  title: "Inhibiting the cGAS-STING Pathway in Ulcerative Colitis with Programmable Micelles"
+  authors: "S. Uthaman, S. Parvinroo, A. P. Mathew, X. Jia, B. Hernandez, A. Proctor, K. A. Sajeevan, et al."
+  journal: "ACS Nano"
+  doi: "10.1021/acsnano.3c11257"
+  url: "https://doi.org/10.1021/acsnano.3c11257"
+  categories:
+    - AI / Machine Learning
+    - Healthcare
+
+- year: 2024
+  title: "Distributed Stochastic Contextual Bandits for Protein Drug Interaction"
+  authors: "Jiabin Lin, Karuna Anna Sajeevan, Bibek Acharya, Shana Moothedath, Ratul Chowdhury"
+  journal: "ICASSP"
+  doi: "10.1109/ICASSP48485.2024.10447230"
+  url: "https://doi.org/10.1109/ICASSP48485.2024.10447230"
+  categories:
+    - AI / Machine Learning
+    - Drug Discovery
+
+- year: 2024
+  title: "ViridisChem's Chemical Database: Assessing the quality of experimental property data and the reliability of predicted values"
+  authors: "Karuna Anna Sajeevan, K. S. Rosselot, R. Vyas"
+  journal: "Green Analytical Chemistry"
+  doi: "10.1016/j.greeac.2024.100101"
+  url: "https://doi.org/10.1016/j.greeac.2024.100101"
+  categories:
+    - Data Science
+    - Sustainability
+
+- year: 2024
+  title: "Exploring putative enteric methanogenesis inhibitors using molecular simulations and a graph neural network"
+  authors: "Randy Aryee, Noor S. Mohammed, Supantha Dey, B. Arunraj, Swathi Nadendla, Karuna Anna Sajeevan, et al."
+  journal: "bioRxiv preprint"
+  doi: "10.1101/2024.09.16.613350"
+  url: "https://doi.org/10.1101/2024.09.16.613350"
+  categories:
+    - Molecular Simulation
+    - AI / Machine Learning
+    - Healthcare
+
+- year: 2023
+  title: "A multi-organ maize metabolic model connects temperature stress with energy production and reducing power generation"
+  authors: "N. B. Chowdhury, M. Simons-Senftle, M. Decouard, I. Quillere, M. Rigault, K. A. Sajeevan, et al."
+  journal: "iScience"
+  doi: "10.1016/j.isci.2023.108400"
+  url: "https://doi.org/10.1016/j.isci.2023.108400"
+  categories:
+    - Computational Biology
+
+- year: 2021
+  title: "Simulation of differential structure and dynamics of disulfide bond isoforms of conopeptide AuIB in presence of human α3β4 nAChR"
+  authors: "Karuna Anna Sajeevan, Durba Roy"
+  journal: "Peptide Science"
+  doi: "10.1002/pep2.24183"
+  url: "https://doi.org/10.1002/pep2.24183"
+  categories:
+    - Molecular Simulation
+    - Peptides
+
+- year: 2021
+  title: "Relation between glycosidic linkage, structure and dynamics of α- and β-glucans in water"
+  authors: "Sruthi Peesapati, Karuna Anna Sajeevan, Siddhant Kumar Patel, Durba Roy"
+  journal: "Biopolymers"
+  doi: "10.1002/bip.23423"
+  url: "https://doi.org/10.1002/bip.23423"
+  categories:
+    - Molecular Simulation
+    - Biomolecular Science
+
+- year: 2019
+  title: "Principal Component Analysis of a Conotoxin Delineates the Link among Peptide Sequence, Dynamics, and Disulfide Bond Isoforms"
+  authors: "Karuna Anna Sajeevan, Durba Roy"
+  journal: "The Journal of Physical Chemistry B"
+  doi: "10.1021/acs.jpcb.9b04090"
+  url: "https://doi.org/10.1021/acs.jpcb.9b04090"
+  categories:
+    - Molecular Simulation
+    - Peptides
+
+- year: 2018
+  title: "Aqueous ionic liquids influence the disulfide bond isoform equilibrium in conotoxin AuIB: a consequence of the Hofmeister effect?"
+  authors: "Karuna Anna Sajeevan, Durba Roy"
+  journal: "Biophysical Reviews"
+  doi: "10.1007/s12551-017-0391-2"
+  url: "https://doi.org/10.1007/s12551-017-0391-2"
+  categories:
+    - Molecular Simulation
+    - Peptides
+
+- year: 2018
+  title: "Peptide Sequence and Solvent as Levers to Control Disulfide Connectivity in Multiple Cysteine Containing Venom Toxins"
+  authors: "Karuna Anna Sajeevan, Durba Roy"
+  journal: "The Journal of Physical Chemistry B"
+  doi: "10.1021/acs.jpcb.8b01437"
+  url: "https://doi.org/10.1021/acs.jpcb.8b01437"
+  categories:
+    - Molecular Simulation
+    - Peptides

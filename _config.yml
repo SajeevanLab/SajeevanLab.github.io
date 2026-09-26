@@ -1,0 +1,25 @@
+title: "Sajeevan Lab"
+description: "Computational and AI-Driven Molecular Science"
+url: "https://sajeevanlab.github.io"
+baseurl: ""
+lang: "en"
+
+author:
+  name: "Dr. Karuna Anna Sajeevan"
+  email: "karunaanna91@gmail.com"
+  orcid: "0000-0002-9093-3845"
+
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+
+plugins:
+  - jekyll-seo-tag
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
+  - vendor
+  - "*.py"
